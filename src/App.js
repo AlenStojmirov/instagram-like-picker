@@ -33,7 +33,7 @@ function App() {
                 <h1>Instagram Random Like Picker</h1>
             </div>
             <div className="d-flex justify-content-center align-items-center">
-                <h1>Total Likes: {users.length}</h1>
+                <h1>Total Likes: 231</h1>
             </div>
 
             {/* Scrollable User List */}
